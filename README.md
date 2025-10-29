@@ -29,4 +29,4 @@ cd Employee-Salary-Predictor
 pip install -r requirements.txt
 streamlit run app.py
 
-Copy code
+
